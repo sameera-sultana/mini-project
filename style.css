@@ -4,7 +4,7 @@
     font-family: "Poppins", sans-serif;   
  }
 .main_box{
-    background-image: url(mini\ \(1\).jpg);
+    background-image: url(./assets/cat.jpg);
     background-size: cover;
     height: 100vh;
 }
